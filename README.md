@@ -1,6 +1,6 @@
 ## Hi there! 👋  I'm Michelle. 
 
-I'm a **Software Engineering** student passionate about turning ideas into code. I love technology, AI, solving problems, and building projects that help me grow as a developer. My ultimate goal is to evolve into a Senior Software Developer.
+I'm a **Software Engineering** student passionate about turning ideas into code. I love technology, solving problems, and building projects that help me grow as a developer. My ultimate goal is to evolve into a Senior Software Developer.
 
 ### 🚀 Current Focus
 
