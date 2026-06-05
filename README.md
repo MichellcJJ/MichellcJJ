@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there! 👋  I'm Michelle. 
 
-<!--
-**MichellcJJ/MichellcJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering** student passionate about turning ideas into code. I love technology, AI, solving problems, and building projects that help me grow as a developer. My ultimate goal is to evolve into a Senior Software Developer.
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Improving my software engineering skills
+- 🐍 Deepening my coding and programming knowledge
+- 💻 Building personal projects
+- 🌱 Constantly expanding my horizons
+
+### 🛠️ Technologies & Tools
+
+Aquí puedes usar badges de [Shields.io](https://shields.io/) o [Simple Icons](https://simpleicons.org/) para que se vea muy visual:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 🎯 Goals
+
+- Build real-world software projects
+- Contribute to open-source projects
+- Grow every day as a Software Engineer
+- Never stop learning
+
+### ⚡ Fun Fact
+
+I started learning programming a few months ago because I love complex programming languages and wanted to understand how websites and apps work. I stayed because I fell in love with learning and building through code!
+
+---
+<p align="center">
+  <i>"Code. Learn. Improve. Repeat."</i>
+</p>
