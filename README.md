@@ -9,12 +9,9 @@ I'm a **Software Engineering** student passionate about turning ideas into code.
 - 💻 Building personal projects
 - 🌱 Constantly expanding my horizons
 
-### 🛠️ Technologies & Tools
-
-Aquí puedes usar badges de [Shields.io](https://shields.io/) o [Simple Icons](https://simpleicons.org/) para que se vea muy visual:
+### 🛠️ Tools I mostly use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎯 Goals
